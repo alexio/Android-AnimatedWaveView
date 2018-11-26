@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="wavesViewStyle" format="reference" />
+
+    <declare-styleable name="WavesView">
+        <attr name="waveColor" format="color" />
+        <attr name="waveStrokeWidth" format="dimension" />
+        <attr name="waveGap" format="dimension" />
+    </declare-styleable>
+</resources>
